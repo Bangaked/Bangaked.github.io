@@ -59,7 +59,7 @@ header{
   background: rgb(120, 0, 6);
 }
 .entry:hover{
-  background: rgb(43, 0, 02);
+  background: rgb(176, 0, 9);
   cursor: pointer;
   color:rgba(0, 0, 0,0.5) !important;
 }
