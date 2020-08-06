@@ -1,6 +1,6 @@
 *{
   font-family: 'Mukta Mahee', sans-serif;
-  color: White !important;
+  color: Black !important;
 }
 header{
   position: fixed;
@@ -56,10 +56,10 @@ header{
 
 }
 .entry:nth-child(odd){
-  background: rgb(120, 0, 6);
+  background: rgb(250, 250, 250);
 }
 .entry:hover{
-  background: rgb(176, 0, 9);
+  background: rgb(255, 207, 207);
   cursor: pointer;
   color:rgba(0, 0, 0,0.5) !important;
 }
