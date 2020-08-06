@@ -61,7 +61,7 @@ header{
 .entry:hover{
   background: rgb(184, 123, 123);
   cursor: pointer;
-  color:rgba(0, 0, 0,0.5) !important;
+  color:rgb(74, 0, 0,) !important;
 }
 
 A:hover {color:rgba(74, 0, 0,) !important; text-decoration:none; }
