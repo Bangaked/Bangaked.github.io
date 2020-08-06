@@ -67,7 +67,7 @@ header{
 A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
 
 .selected{
-  background: rgb(176, 0, 9) !important;
+  background: rgb(250, 250, 250) !important;
 }
 .author{
   font-variant: small-caps;
@@ -151,7 +151,7 @@ A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
   left: 0;
   width: 100%;
   height: 100%;
-  background: white;
+  background: black;
   z-index: 99;
 }
 #user-rank {
