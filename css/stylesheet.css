@@ -67,7 +67,7 @@ header{
 A:hover {color:rgba(0, 0, 0,0.5) !important; text-decoration:none; }
 
 .selected{
-  background: rgb(43, 0, 02) !important;
+  background: rgb(176, 0, 9) !important;
 }
 .author{
   font-variant: small-caps;
