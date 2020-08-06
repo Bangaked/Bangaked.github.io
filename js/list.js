@@ -4,48 +4,6 @@ const d = {
 		{
                        "vids": [
 			       {
-				       "user": "XanPlayzGamez",
-				       "link": "https://youtu.be/Vi6NIYsp0Sk",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
-				       "user": "piesy",
-				       "link": "https://youtu.be/30KjuruqQBA",
-				       "percent": 100,
-				       "hz": "300hz"
-			       },
-			       {
-				       "user": "Plasmic",
-				       "link": "https://www.youtube.com/watch?v=q_qw68G_c5Y&feature=youtu.be",
-				       "percent": 100,
-				       "hz": "300hz"
-			       },
-			       {
-				       "user": "GDMeric",
-				       "link": "https://www.youtube.com/watch?v=clQudjuJUTk&feature=youtu.be",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
-				       "user": "Arcturus",
-				       "link": "https://youtu.be/BBwbaXfxXkM",
-				       "percent": 69,
-				       "hz": "300hz"
-			       },
-			       {
-				       "user": "Viewsonic",
-				       "link": "https://www.youtube.com/watch?v=NIHY86mHMcA",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
-				       "user": "Praerius",
-				       "link": "https://www.youtube.com/watch?v=0KAcoIr72_k&feature=youtu.be",
-				       "percent": 77,
-				       "hz": "288hz"
-			       },
-			       {
 				       "user": "Pushenka",
 				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
 				       "percent": 100,
