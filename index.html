@@ -124,7 +124,7 @@
         if (rank > 100) {
             return roundNumber(15, 3);
         } else {
-            return roundNumber((25 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50, 3);
+            return roundNumber((25 / Math.sqrt(((rank - 1) / 12.5) + 0.444444)) - 50, 3);
         }
     }
     function roundNumber(num, scale) {
