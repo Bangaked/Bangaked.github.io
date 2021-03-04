@@ -16,7 +16,7 @@ const d = {
                        "id": 977,
                        "pass": "Free to copy",
                        "percentToQualify": 63,
-                       "verificationVid": "https://www.youtube.com/watch?v=8JHrNWP4H58&feature=emb_title&ab_channel=TFIBB",
+                       "verificationVid": "https://youtu.be/8JHrNWP4H58",
                        "key": 0
 				},
 		/*=================================================================================*/
