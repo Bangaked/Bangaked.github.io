@@ -133,7 +133,7 @@ const d = {
 				   {
 						"user": "Vink",
 						"link": "https://youtu.be/ihjWMc-21Is",
-						"percent": 100,
+						"percent": 73,
 						"hz": "120hz"
 					},
                        ],
@@ -592,13 +592,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "late halloween level lol",
+                       "author": "SilvaGunner [TFIBB]",
                        "more": "none",
-                       "id": 1916,
+                       "id": 1852,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://www.google.com/url?q=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F772106580669759508%2F809594264970854441%2FBase_Profile_2021.02.11_-_20.17.46.04.DVR_Trim.mp4&sa=D&sntz=1&usg=AFQjCNHUfcfOZVZUUj_NKWfTZKCVrjCiwQ",
                        "key": 30
 				},
 		/*=================================================================================*/
@@ -611,13 +611,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "The Challenge v2",
+                       "author": "VioletJ",
                        "more": "none",
-                       "id": 1916,
+                       "id": 479,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://youtu.be/EvuKtZNCVts",
                        "key": 31
 				},
 		/*=================================================================================*/
@@ -630,13 +630,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "Moonlight Monsoon",
+                       "author": "Kaiju",
                        "more": "none",
-                       "id": 1916,
-                       "pass": "Free to copy",
+                       "id": 2465,
+                       "pass": "Not Copyable",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://youtu.be/Xt0WoKnCN74",
                        "key": 32
 				},
 		/*=================================================================================*/
@@ -649,13 +649,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "Paliopolis",
+                       "author": "Mesi [TFIBB]",
                        "more": "none",
-                       "id": 1916,
+                       "id": 1554,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://www.google.com/url?q=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F705434440653996045%2F757032674996125777%2Fbjhf.mp4&sa=D&sntz=1&usg=AFQjCNGto0f9euFoNcYc1gmW8ARysaV2dA",
                        "key": 33
 				},
 		/*=================================================================================*/
@@ -668,13 +668,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "Eighteen Circles",
+                       "author": "NewVoxEnergy",
                        "more": "none",
-                       "id": 1916,
+                       "id": 2461,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://youtu.be/8vLmmf42dt4",
                        "key": 34
 				},
 		/*=================================================================================*/
@@ -687,13 +687,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "E",
+                       "author": "Bangaled [TFIBB]",
                        "more": "none",
-                       "id": 1916,
+                       "id": 2073,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://www.google.com/url?q=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F671868081341071411%2F786811052951207996%2Foh.mp4&sa=D&sntz=1&usg=AFQjCNGInlxVMxFpseqfeqjW9L3u9IVLHQ",
                        "key": 35
 				},
 		/*=================================================================================*/
@@ -706,13 +706,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "Gaynos",
+                       "author": "ItzUtopiaStyles",
                        "more": "none",
-                       "id": 1916,
+                       "id": 987,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://youtu.be/sTClg4CXqm0",
                        "key": 36
 				},
 		/*=================================================================================*/
@@ -725,13 +725,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "Underground",
+                       "author": "JordanTRS [TFIBB]",
                        "more": "none",
-                       "id": 1916,
+                       "id": 1735,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://www.youtube.com/watch?v=DYXvUjF3dh8&feature=youtu.be",
                        "key": 37
 				},
 		/*=================================================================================*/
@@ -744,13 +744,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "Dual Hell",
+                       "author": "Mikal [zekzekGD]",
                        "more": "none",
-                       "id": 1916,
+                       "id": 1911,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://youtu.be/2DjLyDbDnkw",
                        "key": 38
 				},
 		/*=================================================================================*/
@@ -763,13 +763,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "Realistik",
+                       "author": "Lilth [KrisKing]",
                        "more": "none",
-                       "id": 1916,
+                       "id": 424,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://youtu.be/xuVF4Za8Oxk",
                        "key": 39
 				},
 		/*=================================================================================*/
@@ -782,13 +782,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "SeparatisT",
+                       "author": "Yosem",
                        "more": "none",
-                       "id": 1916,
+                       "id": 526,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://youtu.be/awXAu7NKgvc",
                        "key": 40
 				},
 		/*=================================================================================*/
@@ -801,13 +801,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "Windfall Circles",
+                       "author": "FancyAkaVTGD",
                        "more": "none",
-                       "id": 1916,
+                       "id": 2174,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://youtu.be/06l90bV_LFs",
                        "key": 41
 				},
 		/*=================================================================================*/
@@ -820,13 +820,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "untitled",
+                       "author": "Pushenka",
                        "more": "none",
-                       "id": 1916,
+                       "id": 1070,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://www.youtube.com/watch?v=eYDlIyZaGGw",
                        "key": 42
 				},
 		/*=================================================================================*/
@@ -839,13 +839,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "Exasp",
+                       "author": "Koozoo2k [TFIBB]",
                        "more": "none",
-                       "id": 1916,
+                       "id": 1016,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://www.google.com/url?q=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F705892916178190457%2F732397892203184228%2Fno82.mp4&sa=D&sntz=1&usg=AFQjCNGzUR3FNvLCeGEXPBz2Td1IAaVhyQ",
                        "key": 43
 				},
 		/*=================================================================================*/
@@ -858,13 +858,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "Arcadia",
+                       "author": "Deadblue",
                        "more": "none",
-                       "id": 1916,
+                       "id": 1692,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://youtu.be/CiD3VK2tXpg",
                        "key": 44
 				},
 		/*=================================================================================*/
@@ -877,13 +877,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "Project A",
+                       "author": "Taehyun [TFIBB]",
                        "more": "none",
-                       "id": 1916,
+                       "id": 1683,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://www.youtube.com/watch?v=2Mx_OKBCDTM",
                        "key": 45
 				},
 		/*=================================================================================*/
@@ -896,13 +896,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "Kenya",
+                       "author": "Deadblue",
                        "more": "none",
-                       "id": 1916,
+                       "id": 1715,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://youtu.be/7EnUKwlh7hw",
                        "key": 46
 				},
 		/*=================================================================================*/
@@ -915,13 +915,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "Tarnish",
+                       "author": "Blixio, CnekYT, and Deadblue [Deadblue]",
                        "more": "none",
-                       "id": 1916,
+                       "id": 456,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://youtu.be/CYH78Q4uH8w",
                        "key": 47
 				},
 		/*=================================================================================*/
@@ -934,13 +934,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "Mental Fracture",
+                       "author": "RemUwU [Invictux]", // I physically recoiled writting the creators name.
                        "more": "none",
-                       "id": 1916,
+                       "id": 1977,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://youtu.be/S7tT7FFqcvc",
                        "key": 48
 				},
 		/*=================================================================================*/
@@ -953,13 +953,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Psychotomimetic",
-                       "author": "TFIBB",
+                       "name": "dimension full ver",
+                       "author": "iiHeroSuperGDPS",
                        "more": "none",
-                       "id": 1916,
-                       "pass": "Free to copy",
+                       "id": 2305,
+                       "pass": "Not Copyable",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "verificationVid": "https://youtu.be/NG9itGRXV3c",
                        "key": 49
 				},
 		/*=================================================================================*/
