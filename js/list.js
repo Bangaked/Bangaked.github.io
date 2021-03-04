@@ -4,16 +4,10 @@ const d = {
 		{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
+				       "user": "Lawnmower",
+				       "link": "https://youtu.be/69aBXS2vm4Q",
 				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
-				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
-				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": "240hz"
 			       },
                        ],
                        "name": "Trash",
@@ -21,18 +15,18 @@ const d = {
                        "more": "none",
                        "id": 977,
                        "pass": "Free to copy",
-                       "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=8JHrNWP4H58&feature=emb_title",
+                       "percentToQualify": 63,
+                       "verificationVid": "https://www.youtube.com/watch?v=8JHrNWP4H58&feature=emb_title&ab_channel=TFIBB",
                        "key": 0
 				},
 		/*=================================================================================*/
 		{
                        "vids": [
 			       {
-				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "user": "njacked",
+				       "link": "https://www.youtube.com/watch?v=KSuGXJypm8k&feature=youtu.be",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": "300hz"
 			       },
                        ],
                        "name": "Psychotomimetic",
@@ -40,7 +34,7 @@ const d = {
                        "more": "none",
                        "id": 1916,
                        "pass": "Free to copy",
-                       "percentToQualify": 45,
+                       "percentToQualify": 47,
                        "verificationVid": "https://youtu.be/xRPg4xr8A-c",
                        "key": 1
 				},
@@ -48,10 +42,6 @@ const d = {
 		{
 						"vids": [
 					{
-						"user": "TFIBB",
-						"link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
-						"percent": 100,
-						"hz": "144hz"
 					},
 						],
 						"name": "Dark Fire",
@@ -59,7 +49,7 @@ const d = {
 						"more": "none",
 						"id": 1693,
 						"pass": "Free to copy",
-						"percentToQualify": 45,
+						"percentToQualify": 56,
 						"verificationVid": "https://www.youtube.com/watch?v=7kkADfnqrmc",
 						"key": 2
 			 	},
@@ -67,10 +57,10 @@ const d = {
 {
                        "vids": [
 			       {
-				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "user": "KrisKing",
+				       "link": "https://youtu.be/zthrRqFHjAc",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": "120hz"
 			       },
                        ],
                        "name": "Thunderous Nostalgia",
@@ -78,7 +68,7 @@ const d = {
                        "more": "none",
                        "id": 1344,
                        "pass": "Free to copy",
-                       "percentToQualify": 45,
+                       "percentToQualify": 54,
                        "verificationVid": "https://www.youtube.com/watch?v=gTEzOVh_sgM",
                        "key": 3
 				},
@@ -97,7 +87,7 @@ const d = {
                        "more": "none",
                        "id": 2163,
                        "pass": "Free to copy",
-                       "percentToQualify": 45,
+                       "percentToQualify": 76,
                        "verificationVid": "https://youtu.be/pIZHSQ4uaN8",
                        "key": 4
 				},
@@ -105,10 +95,6 @@ const d = {
 		{
                        "vids": [
 			       {
-				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
-				       "percent": 100,
-				       "hz": "144hz"
 			       },
                        ],
                        "name": "u n k n o w n",
@@ -116,7 +102,7 @@ const d = {
                        "more": "none",
                        "id": 2509,
                        "pass": "Free to copy",
-                       "percentToQualify": 45,
+                       "percentToQualify": 67,
                        "verificationVid": "https://www.youtube.com/watch?v=6-d6HvMSAEA",
                        "key": 5
 				},
@@ -124,10 +110,6 @@ const d = {
 				{
                        "vids": [
 			       {
-				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
-				       "percent": 100,
-				       "hz": "144hz"
 			       },
                        ],
                        "name": "Armegeddon Delpris",
@@ -135,7 +117,7 @@ const d = {
                        "more": "none",
                        "id": 1986,
                        "pass": "Free to copy",
-                       "percentToQualify": 45,
+                       "percentToQualify": 80,
                        "verificationVid": "https://www.youtube.com/watch?v=LqPkWRjbyN8",
                        "key": 6
 				},
@@ -144,17 +126,23 @@ const d = {
                        "vids": [
 			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "link": "https://youtu.be/ihjWMc-21Is",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": "240hz"
 			       },
+				   {
+						"user": "Vink",
+						"link": "https://youtu.be/ihjWMc-21Is",
+						"percent": 100,
+						"hz": "120hz"
+					},
                        ],
                        "name": "KZ",
                        "author": "Koozoo2k",
                        "more": "none",
                        "id": 2223,
                        "pass": "Free to copy",
-                       "percentToQualify": 45,
+                       "percentToQualify": 42,
                        "verificationVid": "https://youtu.be/S6VfWqueoT4",
                        "key": 7
 				},
@@ -162,10 +150,10 @@ const d = {
 				{
                        "vids": [
 			       {
-				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "user": "Pushenka",
+				       "link": "https://www.youtube.com/watch?v=1KMC0dQkk3k",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": "240hz"
 			       },
                        ],
                        "name": "Lucid Predator",
@@ -173,7 +161,7 @@ const d = {
                        "more": "none",
                        "id": 2588,
                        "pass": "Free to copy",
-                       "percentToQualify": 45,
+                       "percentToQualify": 61,
                        "verificationVid": "https://youtu.be/KyG1BvvOjIA",
                        "key": 8
 				},
@@ -182,7 +170,25 @@ const d = {
                        "vids": [
 			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "link": "https://youtu.be/eozqVA0vZqc",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
+				   {
+				       "user": "Pushenka",
+				       "link": "https://www.youtube.com/watch?v=7upWLlUyISo",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
+				   {
+				       "user": "KrisKing",
+				       "link": "https://youtu.be/RgwLRRO6lKE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+				   {
+				       "user": "Daxy",
+				       "link": "https://youtu.be/hJIpgfkUPlg",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
@@ -192,7 +198,7 @@ const d = {
                        "more": "none",
                        "id": 1004,
                        "pass": "Free to copy",
-                       "percentToQualify": 45,
+                       "percentToQualify": 74,
                        "verificationVid": "https://youtu.be/D0h45AjsYYU",
                        "key": 9
 				},
