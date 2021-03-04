@@ -16,13 +16,13 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Kronos",
-                       "author": "Yosem",
+                       "name": "Trash",
+                       "author": "Bangaled",
                        "more": "none",
-                       "id": 30311,
+                       "id": 977,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://www.youtube.com/watch?v=8JHrNWP4H58&feature=emb_title&ab_channel=TFIBB",
                        "key": 0
 				},
 		/*=================================================================================*/
@@ -35,920 +35,929 @@ const d = {
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Iron Hell",
-                       "author": "lBerry",
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
                        "more": "none",
-                       "id": 140410,
+                       "id": 1916,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=uJSw4LvyE0g",
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
                        "key": 1
 				},
 		/*=================================================================================*/
 		{
+						"vids": [
+					{
+						"user": "TFIBB",
+						"link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+						"percent": 100,
+						"hz": "144hz"
+					},
+						],
+						"name": "Dark Fire",
+						"author": "Exxenity",
+						"more": "Verifier: TFIBB",
+						"id": 1693,
+						"pass": "Free to copy",
+						"percentToQualify": 45,
+						"verificationVid": "https://www.youtube.com/watch?v=7kkADfnqrmc",
+						"key": 2
+			 	},
+		/*=================================================================================*/
+{
                        "vids": [
 			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=Supz_S_i6RY",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "The ArchAngel",
-                       "author": "Daxy",
-                       "more": "none",
-                       "id": 134163,
+                       "name": "Thunderous Nostalgia",
+                       "author": "TFIBB",
+                       "more": "Creator: TaehyunTXT",
+                       "id": 1344,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?&v=_gbFK4yiue8",
-                       "key": 2
+                       "verificationVid": "https://www.youtube.com/watch?v=gTEzOVh_sgM",
+                       "key": 3
 				},
 		/*=================================================================================*/
-		{
+{
                        "vids": [
-					{
-						"user": "Magma",
-						"link": "https://www.youtube.com/watch?v=2VeSD7FR-RY",
-						"percent": 100,
-						"hz": "120hz"
-					},
-			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=LDxWbDM3md8&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
 			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=M2l9bOUi9Ak",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Short Circuit",
-                       "author": "MrMoNeVeRiX",
-                       "more": "none",
-                       "id": 10367,
+                       "name": "TVF",
+                       "author": "RealFurrious",
+                       "more": "Verifier: Koozoo2k",
+                       "id": 2163,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=vMfP5uRdwcM",
-                       "key": 3
-                },
-		/*=================================================================================*/
-		{
-                       "vids": [
-			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=cqi4XnL6KXw",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
-				       "user": "LeifY",
-				       "link": "https://www.youtube.com/watch?v=kB7-boVCnLM&",
-				       "percent": 100,
-				       "hz": "144hz"
-				   },
-				   {
-						"user": "monkaW",
-						"link": "https://www.youtube.com/watch?v=2i9LXdC66Xg&t=54s",
-						"percent": 100,
-						"hz": "144hz"
-					},
-					{
-						"user": "SledgeHammer",
-						"link": "https://www.google.com/url?q=https%3A%2F%2Fyoutu.be%2FhVnStmaY4xQ&sa=D",
-						"percent": 100,
-						"hz": "144hz"
-					},
-                       ],
-                       "name": "Bayonet",
-                       "author": "rBlexood",
-                       "more": "none",
-                       "id": 134163,
-                       "pass": "Free to copy",
-                       "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=3_AiomEiQ20",
+                       "verificationVid": "https://youtu.be/pIZHSQ4uaN8",
                        "key": 4
 				},
 		/*=================================================================================*/
 		{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=WiOj6CoB4oA",
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Deit Coke",
+                       "name": "u n k n o w n",
                        "author": "TFIBB",
-                       "more": "none",
-                       "id": 139304,
+                       "more": "Creator: skell",
+                       "id": 2509,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=bnGySNbZ6X8",
+                       "verificationVid": "https://www.youtube.com/watch?v=6-d6HvMSAEA",
                        "key": 5
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Celected",
-				       "link": "https://www.youtube.com/watch?v=2DyrVlrkOFo",
-				       "percent": 100,
-				       "hz": "240hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=6922m78XjHg",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Medium Coma",
-                       "author": "rBlexood",
-                       "more": "none",
-                       "id": 138491,
+                       "name": "Armegeddon Delpris",
+                       "author": "TFIBB",
+                       "more": "Creator: Bangaled",
+                       "id": 1986,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=8Xe6yk2RWhs",
+                       "verificationVid": "https://www.youtube.com/watch?v=LqPkWRjbyN8",
                        "key": 6
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=gog3O-YI2bE",
-				       "percent": 100,
-				       "hz": "144hz"
-				   },
-				   {
-						"user": "Daxy",
-						"link": "https://www.youtube.com/watch?v=C9TrDUc_l14&",
-						"percent": 100,
-						"hz": "144hz"
-					},
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=Js4MxzVWWBg",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Shadow Universe",
-                       "author": "vaitam",
+                       "name": "KZ",
+                       "author": "Koozoo2k",
                        "more": "none",
-                       "id": 3689,
+                       "id": 2223,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=f6NartYeWx4",
+                       "verificationVid": "https://youtu.be/S6VfWqueoT4",
                        "key": 7
 				},
-						/*=================================================================================*/
-		{
+		/*=================================================================================*/
+				{
                        "vids": [
 			       {
-				       "user": "Tonyearl",
-				       "link": "https://www.youtube.com/watch?v=IvIdo9eMkR0",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=KN7J8ZD22fw",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Bruh Voretechks",
-                       "author": "ItzUtopiastyles",
+                       "name": "Lucid Predator",
+                       "author": "njacked",
                        "more": "none",
-                       "id": 30311,
+                       "id": 2588,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=LxmRFa92A2E",
+                       "verificationVid": "https://youtu.be/KyG1BvvOjIA",
                        "key": 8
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
-					{
-						"user": "LeifY",
-						"link": "https://www.youtube.com/watch?v=IpTBFGSZMtA",
-						"percent": 100,
-						"hz": "144hz"
-					},	   
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=hKsJ9iHoGTY",
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
-			       {
-				       "user": "TFIBB",
-				       "link": "Not Avalible",
-				       "percent": 100,
-				       "hz": "144hz"
-				   },
-					{
-				       "user": "SledgeHammer",
-				       "link": "https://www.google.com/url?q=https%3A%2F%2Fyoutu.be%2Fkz9EVtFaahU&sa=D",
-				       "percent": 100,
-				       "hz": "144hz"
-				   },
-				   	{
-				       "user": "Gelforce",
-				       "link": "https://www.youtube.com/watch?v=reG6iCyb7ws",
-				       "percent": 100,
-				       "hz": "144hz"
-				   },
-				{
-				       "user": "Daxy",
-				       "link": "https://youtu.be/TxtGhfwnZD8",
-				       "percent": 100,
-				       "hz": "144hz"
-				   },
                        ],
-                       "name": "Rockafeller Circles",
-                       "author": "Magma",
+                       "name": "sAlvAtIOn",
+                       "author": "Koozoo2k",
                        "more": "none",
-                       "id": 140410,
+                       "id": 1004,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=O_CGjEVt0DA",
+                       "verificationVid": "https://youtu.be/D0h45AjsYYU",
                        "key": 9
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
-					{
-						"user": "TFIBB",
-						"link": "https://www.youtube.com/watch?v=Zf6-i-DrdJA",
-						"percent": 100,
-						"hz": "144hz"
-					},
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=bKRWJQkAa8o",
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Get Smooshed",
-                       "author": "DanyokGD",
-                       "more": "none",
-                       "id": 133776,
+                       "name": "Buff on Track",
+                       "author": "CoolVLAD",
+                       "more": "Verifier: TFIBB",
+                       "id": 991,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=_5e0npfuYgE",
+                       "verificationVid": "https://youtu.be/Exzuhaav54M",
                        "key": 10
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Bizzare",
-                       "author": "Celected",
+                       "name": "GustY Circles",
+                       "author": "VioletJ",
                        "more": "none",
-                       "id": 20535,
+                       "id": 45,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=JNxA8LPGC4Y",
+                       "verificationVid": "No Video",
                        "key": 11
-                },
+				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Destruction",
-                       "author": "rBlexood",
-                       "more": "none",
-                       "id": 33589,
+                       "name": "InfernopleX",
+                       "author": "CnekYT",
+                       "more": "Varifier: TFIBB",
+                       "id": 1331,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://www.youtube.com/watch?v=UdU_5CQAzrI",
                        "key": 12
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Experiment X",
-                       "author": "rBlexood",
+                       "name": "Grotesque Gallery",
+                       "author": "RealFurrious",
                        "more": "none",
-                       "id": 130679,
+                       "id": 906,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://www.youtube.com/watch?v=OQ6ZAmKuzTE",
                        "key": 13
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Front Off Lead",
-                       "author": "Farelow",
-                       "more": "none",
-                       "id": 19307,
+                       "name": "Windy Circles X",
+                       "author": "Lilth",
+                       "more": "Verifier: Magma",
+                       "id": 412,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "No Video",
                        "key": 14
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Level Very Demon",
-                       "author": "XcreatorGoal",
+                       "name": "ARMAGEDDON",
+                       "author": "KrisKing",
                        "more": "none",
-                       "id": 1822,
+                       "id": 1914,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://youtu.be/xpyOd4dF1mE",
                        "key": 15
 				},
-						/*=================================================================================*/
-		{
+		/*=================================================================================*/
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "X Challenge",
-                       "author": "Magma",
+                       "name": "experimental lvl",
+                       "author": "KrisKing",
                        "more": "none",
-                       "id": 13996,
+                       "id": 1777,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://youtu.be/7Fy25VldVVQ",
                        "key": 16
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Experiment 33B",
-                       "author": "rBlexood",
+                       "name": "Classical",
+                       "author": "Koozoo2k",
                        "more": "none",
-                       "id": 26285,
+                       "id": 1153,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://www.youtube.com/watch?v=01K2c06gmDU&feature=youtu.be",
                        "key": 17
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Eternal Z",
-                       "author": "Rain",
+                       "name": "NacropoliX",
+                       "author": "Koozoo2k",
                        "more": "none",
-                       "id": 2314,
+                       "id": 1027,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://youtu.be/ECmtryPoxIw",
                        "key": 18
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Silent Circles",
-                       "author": "xPetrosyan",
-                       "more": "none",
-                       "id": 33010,
+                       "name": "Shadow Light",
+                       "author": "Koozoo2k",
+                       "more": "Creator: TheDestroyer556",
+                       "id": 2234,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://youtu.be/6YVtwztKVGI",
                        "key": 19
-                },
+				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Gay",
-                       "author": "XcreatorGoal",
-                       "more": "none",
-                       "id": 2423,
+                       "name": "o o f",
+                       "author": "alexismelonz",
+                       "more": "Verifier: CnekYT",
+                       "id": 1890,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://youtu.be/CaGP7utPFfQ",
                        "key": 20
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Just Another Level",
-                       "author": "Challenger",
-                       "more": "none",
-                       "id": 7311,
+                       "name": "gAmEpLaY II",
+                       "author": "zekzek",
+                       "more": "Verfier: KrisKing",
+                       "id": 1675,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://youtu.be/HkekerEZvKc",
                        "key": 21
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Disaster",
-                       "author": "Michcio",
-                       "more": "none",
-                       "id": 20989,
+                       "name": "Future Circles",
+                       "author": "ImTheEGuy",
+                       "more": "Verifier: Pog",
+                       "id": 164,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://youtu.be/f-xQFTdwJZk",
                        "key": 22
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Dual Masters",
-                       "author": "NNitro",
+                       "name": "OVERDRIVE",
+                       "author": "KrisKing",
                        "more": "none",
-                       "id": 20976,
+                       "id": 1060,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://youtu.be/BhX_UVP4yVw",
                        "key": 23
 				},
-						/*=================================================================================*/
-		{
+		/*=================================================================================*/
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Super Petrosyan Lvl",
-                       "author": "xPetrosyan",
+                       "name": "Sh1veR",
+                       "author": "Koozoo2k",
                        "more": "none",
-                       "id": 7595,
+                       "id": 1036,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://www.youtube.com/watch?v=Jj9Pb-nU3Aw&feature=youtu.be",
                        "key": 24
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Element 111 RG",
-                       "author": "rBlexood",
-                       "more": "Bugfixed version: 136630",
-                       "id": 136518,
+                       "name": "Delpris",
+                       "author": "TFIBB",
+                       "more": "Creators: Lilth",
+                       "id": 497,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://www.youtube.com/watch?v=DyCFXZvS9aw",
                        "key": 25
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "One More Time",
-                       "author": "xPetrosyan",
-                       "more": "none",
-                       "id": 32785,
+                       "name": "VQC",
+                       "author": "TFIBB",
+                       "more": "Creators: CnekYT, TFIBB",
+                       "id": 1165,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://youtu.be/wuEzDj0KPZo",
                        "key": 26
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Pressure",
-                       "author": "lBerry",
-                       "more": "none",
-                       "id": 10367,
+                       "name": "Doomsday Delpris",
+                       "author": "TFIBB",
+                       "more": "Creator: CneckYT",
+                       "id": 499,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://www.youtube.com/watch?v=o_M7fVOYNuo",
                        "key": 27
-                },
+				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "VBC",
-                       "author": "lBerry",
-                       "more": "none",
-                       "id": 138267,
+                       "name": "War Machine",
+                       "author": "Lilth",
+                       "more": "Verfier: TFIBB",
+                       "id": 451,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://youtu.be/Rf0mSX9JFdQ",
                        "key": 28
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "RAXE",
-                       "author": "rBlexood",
-                       "more": "none",
-                       "id": 130876,
+                       "name": "Code White",
+                       "author": "Lilth",
+                       "more": "Verifer: TFIBB",
+                       "id": 504,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://youtu.be/sb8BPk5sUZQ",
                        "key": 29
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Up Bass",
-                       "author": "rBlexood",
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
                        "more": "none",
-                       "id": 20013,
+                       "id": 1916,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
                        "key": 30
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Hell Machine",
-                       "author": "Ratool",
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
                        "more": "none",
-                       "id": 8322,
+                       "id": 1916,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
                        "key": 31
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "cave of FEAR",
-                       "author": "LeifY",
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
                        "more": "none",
-                       "id": 27655,
+                       "id": 1916,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
                        "key": 32
 				},
 		/*=================================================================================*/
-		{
+				{
                        "vids": [
 			       {
-				       "user": "Pushenka",
-				       "link": "https://www.youtube.com/watch?v=uKE8Fa2z0zA&feature=emb_title",
-				       "percent": 100,
-				       "hz": "144hz"
-			       },
-			       {
 				       "user": "TFIBB",
-				       "link": "https://www.youtube.com/watch?v=3glW73mtACs%20YouTube",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
                        ],
-                       "name": "Rollin",
-                       "author": "Magma",
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
                        "more": "none",
-                       "id": 10008,
+                       "id": 1916,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
                        "key": 33
-                },
+				},
 		/*=================================================================================*/
-		{
-			"vids": [
 				{
-					"user": "CoolVLAD",
-					"link": "https://www.youtube.com/watch?v=czWGlgLZS-c&feature=youtu.be",
-					"percent": 100,
-					"hz": "60hz"
+                       "vids": [
+			       {
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
+                       "more": "none",
+                       "id": 1916,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "key": 34
 				},
+		/*=================================================================================*/
 				{
-					"user": "Sledgehammer",
-					"link": "https://www.youtube.com/watch?v=1mEHFN0SBNs&feature=youtu.be",
-					"percent": 100,
-					"hz": "144hz"
+                       "vids": [
+			       {
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
+                       "more": "none",
+                       "id": 1916,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "key": 35
 				},
+		/*=================================================================================*/
 				{
-					"user": "Daxy",
-					"link": "https://www.youtube.com/watch?v=RxXH5JbWMt4&feature=youtu.be",
-					"percent": 100,
-					"hz": "144hz"
+                       "vids": [
+			       {
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
+                       "more": "none",
+                       "id": 1916,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "key": 36
 				},
+		/*=================================================================================*/
 				{
-					"user": "TFIBB",
-					"link": "Not Avalible",
-					"percent": 100,
-					"hz": "144hz"
+                       "vids": [
+			       {
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
+                       "more": "none",
+                       "id": 1916,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "key": 37
 				},
+		/*=================================================================================*/
 				{
-					"user": "Cnek",
-					"link": "https://www.youtube.com/watch?v=77urIBJvQqw&feature=youtu.be",
-					"percent": 100,
-					"hz": "60hz"
+                       "vids": [
+			       {
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
+                       "more": "none",
+                       "id": 1916,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "key": 38
 				},
+		/*=================================================================================*/
 				{
-					"user": "monkaW",
-					"link": "https://www.youtube.com/watch?v=Ec1_7zRnBlY",
-					"percent": 100,
-					"hz": "144hz"
+                       "vids": [
+			       {
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
+                       "more": "none",
+                       "id": 1916,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "key": 39
 				},
+		/*=================================================================================*/
 				{
-					"user": "LeifY",
-					"link": "https://www.youtube.com/watch?v=4Bri-YVv2Og",
-					"percent": 100,
-					"hz": "144hz"
+                       "vids": [
+			       {
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
+                       "more": "none",
+                       "id": 1916,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "key": 40
 				},
+		/*=================================================================================*/
 				{
-					"user": "Play",
-					"link": "https://www.youtube.com/watch?v=gJHPUH_HLdY",
-					"percent": 100,
-					"hz": "60hz"
+                       "vids": [
+			       {
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
+                       "more": "none",
+                       "id": 1916,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "key": 41
 				},
+		/*=================================================================================*/
 				{
-					"user": "LXan",
-					"link": "https://www.youtube.com/watch?v=GObqPf7d-AE",
-					"percent": 100,
-					"hz": "144hz"
+                       "vids": [
+			       {
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
+                       "more": "none",
+                       "id": 1916,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "key": 42
 				},
-			],
-			"name": "Trolling Machine",
-			"author": "XcreatorGoal",
-			"more": "none",
-			"id": 2390,
-			"pass": "Free to copy",
-			"percentToQualify": 61,
-			"verificationVid": "https://www.youtube.com/watch?v=m1cS9qhSjiY",
-			"key": 34
-		},
-		/*=================================================================================*/	
-	
+		/*=================================================================================*/
+				{
+                       "vids": [
+			       {
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
+                       "more": "none",
+                       "id": 1916,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "key": 43
+				},
+		/*=================================================================================*/
+				{
+                       "vids": [
+			       {
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
+                       "more": "none",
+                       "id": 1916,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "key": 44
+				},
+		/*=================================================================================*/
+				{
+                       "vids": [
+			       {
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
+                       "more": "none",
+                       "id": 1916,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "key": 45
+				},
+		/*=================================================================================*/
+				{
+                       "vids": [
+			       {
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
+                       "more": "none",
+                       "id": 1916,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "key": 46
+				},
+		/*=================================================================================*/
+				{
+                       "vids": [
+			       {
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
+                       "more": "none",
+                       "id": 1916,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "key": 47
+				},
+		/*=================================================================================*/
+				{
+                       "vids": [
+			       {
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
+                       "more": "none",
+                       "id": 1916,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "key": 48
+				},
+		/*=================================================================================*/
+				{
+                       "vids": [
+			       {
+				       "user": "TFIBB",
+				       "link": "https://www.youtube.com/watch?v=CGjwN8d0G14",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Psychotomimetic",
+                       "author": "TFIBB",
+                       "more": "none",
+                       "id": 1916,
+                       "pass": "Free to copy",
+                       "percentToQualify": 45,
+                       "verificationVid": "https://www.youtube.com/watch?v=xRPg4xr8A-c&feature=youtu.be&ab_channel=TFIBB",
+                       "key": 49
+				},
+		/*=================================================================================*/
+		
 	],
 	"version": [
 		1,
