@@ -233,7 +233,7 @@ const d = {
                        ],
                        "name": "GustY Circles",
                        "author": "VioletJ",
-                       "more": "none",
+                       "more": "No Video",
                        "id": 45,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
@@ -290,7 +290,7 @@ const d = {
                        ],
                        "name": "Windy Circles X",
                        "author": "Lilth [Magma]",
-                       "more": "none",
+                       "more": "No Video",
                        "id": 412,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
@@ -351,7 +351,7 @@ const d = {
                        "id": 1153,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=01K2c06gmDU&feature=youtu.be",
+                       "verificationVid": "https://youtu.be/01K2c06gmDU",
                        "key": 17
 				},
 		/*=================================================================================*/
@@ -484,7 +484,7 @@ const d = {
                        "id": 1036,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=Jj9Pb-nU3Aw&feature=youtu.be",
+                       "verificationVid": "https://youtu.be/Jj9Pb-nU3Aw",
                        "key": 24
 				},
 		/*=================================================================================*/
@@ -731,7 +731,7 @@ const d = {
                        "id": 1735,
                        "pass": "Free to copy",
                        "percentToQualify": 45,
-                       "verificationVid": "https://www.youtube.com/watch?v=DYXvUjF3dh8&feature=youtu.be",
+                       "verificationVid": "https://youtu.be/DYXvUjF3dh8",
                        "key": 37
 				},
 		/*=================================================================================*/
